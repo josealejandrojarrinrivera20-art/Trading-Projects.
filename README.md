@@ -1,5 +1,25 @@
-# Project 1: S&P500 Data Analysis
+# Trading-Projects
 
-Downloading and plotting ES futures data using Python (yfinance + matplotlib).
+This repository contains my quantitative trading projects in Python.  
+Each folder documents a different project showcasing data analysis, strategy testing, or automation related to futures trading.
 
-This repository will showcase quantitative trading projects as part of my journey towards institutional trading.
+## Projects
+
+- **01_price_data_analysis**  
+  Downloading and plotting S&P500 Futures (ES) data with moving averages (20 & 50).
+
+- **02_ma_strategy**  
+  Simple backtest of a Moving Average crossover strategy (MA20 vs MA50).
+
+## Tools & Libraries
+
+- Python (via Anaconda/Jupyter)
+- pandas
+- matplotlib
+- yfinance
+- numpy
+
+---
+
+👤 Author: Jose Alejandro Jarrín Rivera  
+🎯 Aspiring Institutional Trader | Funded Futures Trader ($50k TopStep)
