@@ -5,10 +5,10 @@ Each folder documents a different project showcasing data analysis, strategy tes
 
 ## Projects
 
-- **01_price_data_analysis**  
+- **project_01_price_analysis**  
   Downloading and plotting S&P500 Futures (ES) data with moving averages (20 & 50).
 
-- **02_ma_strategy**  
+- **project_02_ma_strategy**  
   Simple backtest of a Moving Average crossover strategy (MA20 vs MA50).
 
 ## Tools & Libraries
